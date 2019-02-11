@@ -1,2 +1,2 @@
 # mblog
-spring, hibernate, spring security
+spring boot, hibernate, spring security
